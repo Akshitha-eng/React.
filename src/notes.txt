@@ -1,0 +1,12 @@
+React is mainly used to create single page applications.
+
+What is virtual dom ?
+-Virtual DOM is a virtual representation of a UI which is kept in a memory
+later synced with real DOM with the help of a library called"ReactDOM"'
+
+-the updated of real dom with virtual dom.
+
+JSX:-
+javascript and xml
+-it is a javascript syntax extention used to create HTML-like markup in the react.
+-Actual way to create a element in react is by using a method called as
