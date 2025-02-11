@@ -81,14 +81,16 @@
 // }
 
 import React from 'react'
-import UseEffectEx from './hookexamples/UseEffectEx'
+import RefExamples from './hooksexamples/RefExamples'
 
-export const App = () => {
+const App = () => {
   return (
     <div>
-      <UseEffectEx/>
+      <RefExamples/>
     </div>
   )
 }
+
+export default App
 
 
